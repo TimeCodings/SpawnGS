@@ -4,3 +4,6 @@ main: de.timecode.spawngs.gutschein.SpawnGS
 api-version: 1.19
 authors: [ TimeCoding ]
 website: timecoding.de
+
+commands:
+  spawnplot:
