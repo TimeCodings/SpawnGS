@@ -1,0 +1,8 @@
+name: SpawnPlot
+author: TimeCode
+version: 1.3
+api-version: 1.19
+main: de.timecode.spawngs.gutschein.SpawnGS
+
+commands:
+   spawnplot:
